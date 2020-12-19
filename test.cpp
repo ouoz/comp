@@ -25,10 +25,5 @@ using ll=long long;
 
 
 signed main(){
-    int a,b,x,y;
-    cin>>a>>b>>x>>y;
-
-    if (2*x<y){
-        
-    }    
+    cout<<endl;
 }
